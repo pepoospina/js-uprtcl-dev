@@ -12,7 +12,6 @@
     "js-uprtcl/remotes/http",
     "js-uprtcl/remotes/blockchain",
     "js-uprtcl/remotes/polkadot",
-    "js-uprtcl-server",
     "kusama-intercreativity"
   ],
   "version": "0.0.0"
