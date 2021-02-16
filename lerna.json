@@ -7,10 +7,13 @@
     "js-uprtcl/evees",
     "js-uprtcl/modules/common-ui",
     "js-uprtcl/modules/documents",
+    "js-uprtcl/modules/wikis",
+    "js-uprtcl/remotes/orbitdb",
     "js-uprtcl/remotes/http",
     "js-uprtcl/remotes/blockchain",
+    "js-uprtcl/remotes/polkadot",
     "js-uprtcl-server",
-    "linked-thoughts"
+    "kusama-intercreativity"
   ],
   "version": "0.0.0"
 }
