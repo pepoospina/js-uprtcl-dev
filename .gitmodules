@@ -2,6 +2,6 @@
 	path = js-uprtcl
 	url = git@github.com:uprtcl/js-uprtcl.git
 	branch = develop
-[submodule "kusama-intercreativity"]
-	path = kusama-intercreativity
-	url = https://github.com/uprtcl/kusama-intercreativity.git
+[submodule "kusama-council-board"]
+	path = kusama-council-board
+	url = git@github.com:uprtcl/kusama-council-board.git

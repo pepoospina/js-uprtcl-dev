@@ -12,7 +12,7 @@
     "js-uprtcl/remotes/http",
     "js-uprtcl/remotes/blockchain",
     "js-uprtcl/remotes/polkadot",
-    "kusama-intercreativity"
+    "kusama-council-board"
   ],
   "version": "0.0.0"
 }
